@@ -20,6 +20,6 @@ pull |Pour fusionner toutes les modifications présentes sur le dépôt distant 
 git push | pousser le projet dans un dépôt distant 
 checkout |
 clone |
-merge |
+merge | permet de fusionné 2 branche
 
 </body>
