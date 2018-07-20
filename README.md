@@ -1,4 +1,5 @@
-<body background="http://paper-backgrounds.com/textureimages/2012/06/pen-on-table-vintage-background.jpg">
+<body style="background: url(http://paper-backgrounds.com/textureimages/2012/06/pen-on-table-vintage-background.jpg);">
+	
 # presentationGitBR
 démo lignes de commandes git 
 
