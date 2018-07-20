@@ -6,7 +6,7 @@ démo lignes de commandes git
 								 
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "logo")
-<video src="https://media.giphy.com/media/P1CSZl8z584fu/giphy.gif"></video>
+<embed src="https://media.giphy.com/media/OMK7LRBedcnhm/giphy.gif"> </embed>
 
 commande git |  description 
 ------------ |  -----------
