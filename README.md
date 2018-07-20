@@ -7,6 +7,7 @@ démo lignes de commandes git
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "logo")
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+<img src="https://media.giphy.com/media/OMK7LRBedcnhm/giphy.gif"></img>
 
 commande git |  description 
 ------------ |  -----------
