@@ -1,3 +1,4 @@
+<body background="http://paper-backgrounds.com/textureimages/2012/06/pen-on-table-vintage-background.jpg">
 # presentationGitBR
 démo lignes de commandes git 
 
@@ -17,3 +18,4 @@ status | La commande git status affiche la liste des fichiers modifiés ainsi qu
 log |L’ exécution de la commande git log génère le log d’une branche
 pull |Pour fusionner toutes les modifications présentes sur le dépôt distant dans le répertoire de travail local
 
+</body>
